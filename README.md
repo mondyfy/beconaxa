@@ -21,6 +21,6 @@ Initial release of beconaxa, the backend codeing standard checker.
 
 ## For more information
 
-* [BECONAXA Github](http://code.visualstudio.com/docs/languages/markdown)
+* [BECONAXA Github](https://github.com/mondyfy/beconaxa)
 
 **Enjoy!**
