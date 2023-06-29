@@ -2,6 +2,8 @@
   "name": "beconaxa",
   "displayName": "beconaxa",
   "description": "Backend coding standard checker.",
+  "publisher": "beconaxa",
+  "license": "ISC",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
